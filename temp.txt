@@ -1,0 +1,2 @@
+dev.cpu.1.temperature: 63.5C
+dev.cpu.0.temperature: 63.5C
